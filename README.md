@@ -16,5 +16,6 @@ Section 2 – To compute various fractional difference and perform clustering fo
 Section 3 – To compute the monthly returns for each month and model a Decision Tree to classify if investing in
 any month can be a profitable strategy.
   - Computed monthly returns, previous month's Volume, High, Low prices
+  - Used GridSearchCV for Hyperparameter Tuning
   - Implemented Decision Tree to clasify if investing in a month will be profitable
 
