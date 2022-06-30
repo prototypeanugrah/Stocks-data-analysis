@@ -21,4 +21,4 @@ any month can be a profitable strategy.
 
 Visualization - 
   - Created yearly visuals to identify trends
-  = Created monthly trend to make an investment decision i.e, which months are profitable to invest in.
+  - Created monthly trend to make an investment decision i.e, which months are profitable to invest in.
