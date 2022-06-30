@@ -19,3 +19,6 @@ any month can be a profitable strategy.
   - Used GridSearchCV for Hyperparameter Tuning
   - Implemented Decision Tree to clasify if investing in a month will be profitable
 
+Visualization - 
+  - Created yearly visuals to identify trends
+  = Created monthly trend to make an investment decision i.e, which months are profitable to invest in.
